@@ -29,7 +29,7 @@ For each dataset, both Lasso regression and a neural network model (CNN or FCNN)
 
 The repository is organized into the following folders, each containing code and results related to a specific dataset:
 
-- **/Simulation**: Contains the code for generating synthetic datasets and comparing Lasso regression with FCNNs on feature selection and accuracy.
+- **/simulation**: Contains the code for generating synthetic datasets and comparing Lasso regression with FCNNs on feature selection and accuracy.
 - **/Wave_Energy_Farm_Regression**: Includes the code for analyzing the Wave Energy Farm dataset using Lasso regression and CNN models, focusing on regression performance metrics.
 - **/TCGA_Stomach_Cancer_Classification**: Contains the code for the binary classification of the TCGA stomach cancer dataset, comparing Lasso regression and FCNNs.
 - **/Bankruptcy_Classification**: Includes the code for the binary classification of the Taiwanese Bankruptcy dataset, focusing on the comparison between Lasso regression and FCNNs.
