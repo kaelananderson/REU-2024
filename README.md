@@ -42,4 +42,4 @@ This repository provides a comprehensive exploration of the trade-offs between s
 
 ## Acknowledgments
 
-This research was supported by the National Science Foundation under Research Experience for Undergraduates (REU) Grant No. 2244480.
+This research was supported by the National Science Foundation under Research Experience for Undergraduates (REU) Grant No. 2244480 at the UC Riverside site: "Experience the Full Data Science Pipeline through Research and Practice."
