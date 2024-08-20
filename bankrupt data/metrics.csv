@@ -1,0 +1,2 @@
+model,estimation_time_sec,accuracy,f1-score,auc,false_positive_rate,false_negative_rate
+Lasso,0.216,0.852,0.896,0.926,0.15,0.087
