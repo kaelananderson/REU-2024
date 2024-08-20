@@ -1,0 +1,3 @@
+Simulation Size,Model,Inference Time (sec),R Squared,RMSE,Explanation/Interpretation Task,Interpretation Time (sec)
+10-50-10_000,Lasso,0.188,0.973096545533902,1.0084749223082106,Interpret LASSO,0.931
+10-50-10_000,NN,4.525,0.9713368281361181,1.0409340211874012,Explain Neural Network,181.922
