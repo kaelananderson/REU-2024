@@ -1,5 +1,7 @@
 # Interpretable Modeling for High-Dimensional Data: Comparing Lasso Regression and Neural Networks
 
+**Repository Link** https://github.com/kaelananderson/REU-2024
+
 ## Overview
 
 This repository contains the code and results from a research study comparing the performance of Lasso regression and neural network models—specifically Convolutional Neural Networks (CNNs) and Fully Connected Neural Networks (FCNNs)—on various high-dimensional datasets. The study focuses on evaluating these models based on accuracy, efficiency, feature selection capabilities, and, importantly, their interpretability versus explainability.
